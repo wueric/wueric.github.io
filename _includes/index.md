@@ -13,4 +13,4 @@ I am a currently a fourth-year undergraduate at [UC Berkeley](http://berkeley.ed
 
 ## Contact
 
-[Email](mailto:wueric@stanford.edu)
+[Email](mailto:wueric@stanford.edu) | [CV]({{ site.url }}/assets/extended_cv.pdf)
