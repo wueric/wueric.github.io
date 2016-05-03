@@ -5,6 +5,11 @@ title: About
 
 I am a currently a fourth-year undergraduate at [UC Berkeley](http://berkeley.edu) in the [Department of Electrical Engineering and Computer Science](http://www.eecs.berkeley.edu).  In Fall 2016, I will be beginning my Ph.D. in Electrical Engineering at [Stanford University](http://http://ee.stanford.edu/).
 
+## Affiliations
+
+* I currently work on developing novel wearable biosensing systems in [Professor Ali Javey's research group](http://nano.eecs.berkeley.edu/) at UC Berkeley.
+* In the past, I worked on developing data analysis and visualization tools for studying RNA alternative splicing in [Professor Stephen Montgomery's research group](http://montgomerylab.stanford.edu/) at Stanford University.
+
 ## Publications
 
 1. Wu, E., Nance, T. & Montgomery, S.B. SplicePlot: a utility for visualizing splicing quantitative trait loci. _Bioinformatics_ 30, 1025-1026 (2014).
