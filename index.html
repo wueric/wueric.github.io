@@ -2,5 +2,5 @@
 layout: page
 title: About
 ---
-
-{% include index.md %}
+{% capture my-include %}{% include index.md %}{% endcapture %}
+{{ my-include | markdownify }}
