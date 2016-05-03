@@ -1,6 +1,5 @@
 ---
 title: About
-layout: default
 ---
 
 I am a currently a fourth-year undergraduate at [UC Berkeley](http://berkeley.edu) in the [Department of Electrical Engineering and Computer Science](http://www.eecs.berkeley.edu).  In Fall 2016, I will be beginning my Ph.D. in Electrical Engineering at [Stanford University](http://http://ee.stanford.edu/).
