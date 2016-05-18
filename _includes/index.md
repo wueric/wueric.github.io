@@ -10,6 +10,8 @@ I am a currently a fourth-year undergraduate at [UC Berkeley](http://berkeley.ed
 1. Wu, E., Nance, T. & Montgomery, S.B. SplicePlot: a utility for visualizing splicing quantitative trait loci. _Bioinformatics_ 30, 1025-1026 (2014).
 2. Li, X., Battle, A., Karczewski, K.J., Zappala, Z., Knowles, D.A., Smith, K.S., Kukurba, K.R., Wu, E., Simon, N., Montgomery, S.B. Transcriptome Sequencing of a Large Human Family Identifies the Impact of Rare Noncoding Variants. _The American Journal of Human Genetics_ 95, 245-256 (2014).
 3. Ota, H. et al. Application of 3D Printing for Smart Objects with Embedded Electronic Sensors and Systems. _Advanced Materials Technologies_ (2016). doi:10.1002/admt.201600013
+4. Gao, W. et al. Wearable Microsensor Array for Multiplexed Heavy Metal Monitoring of Body Fluids. _ACS Sensors_ (2016). doi:10.1021/acssensors.6b00287
+
 
 ## Contact
 
