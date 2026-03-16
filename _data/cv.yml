@@ -38,6 +38,7 @@ cv:
         courses: solid state devices, nanofabrication, MEMS device design, machine learning, deep learning, convex optimization, systems neuroscience
         highlights:
           - Research in MEMS under supervision of Prof. Roger T. Howe. Design, simulation, and nanofabrication for wafer-scale thermionic energy converter.
+
       - institution: University of California, Berkeley
         location: Berkeley, California
         url: https://www.eecs.berkeley.edu 
@@ -68,7 +69,7 @@ cv:
         url: https://ndseg.org/
         summary: The National Defense Science and Engineering Graduate (NDSEG) Fellowship program was established in 1989 by direction of Congress as an approach to increasing the number of United States (U.S.) citizens receiving doctoral degrees in science and engineering (S&E) disciplines of military importance.
 
-    Selected Publications:
+    Publications:
       - title: Maximum a posteriori natural scene reconstruction  from retinal ganglion cells with deep denoiser priors
         authors:
           - Eric G. Wu, Nora Brackbill, Alexander Sher, Alan M. Litke, Eero P. Simoncelli, E.J. Chichilnisky
@@ -101,13 +102,13 @@ cv:
       - name: electrical engineering
         #level: Master
         #icon: fa-solid fa-hashtag
-        keywords: electronics prototyping, circuit analysis and design, cleanroom nanofabrication, digital signal processing
+        keywords: "electronics prototyping, circuit analysis and design, cleanroom nanofabrication, digital signal processing"
      - name: computational neuroscience
-       keywords: retina, large scale electrophysiology, multi-electrode array recording, encoding models
+       keywords: "retina, large scale electrophysiology, multi-electrode array recording, encoding models"
      - name: software
-       keywords: (in approximately decreasing order of familiarity) Python, PyTorch, Numpy/Scipy, C, C++, bash, CUDA
+       keywords: "Python, PyTorch, Numpy/Scipy, C, C++, bash, CUDA"
      - name: machine learning
-       keywords: convex optimization, image quality evaluation, image processing
+       keywords: "convex optimization, image quality evaluation, image processing"
 
     Languages:
 
