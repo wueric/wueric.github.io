@@ -1,10 +1,10 @@
 cv:
   name: Eric G. Wu 
-  label: Scientist
+    #label: Scientist
   email: wu.eric.g@gmail.com
   location: Bay Area, CA and Washington, DC 
   image: ""
-  summary: 
+  summary: Resercher, software, and hardware engineer with experience in computational photography, image processing, machine learning, image quality evaluation, and visual neuroscience. Past research experience in electronics and MEMS. 15+ publications in top journals and conferences in neuroscience, machine learning, and electronics with 2000+ citations.
 
   social_networks:
     - network: GitHub
@@ -22,20 +22,22 @@ cv:
         start_date: 2016
         end_date: 2024
         highlights:
-          - Description 1.
-          - Description 2.
+          - Computational and experimental visual neuroscience under the supervision of Prof. E.J. Chichilnisky.
+          - Developed generative image decoder for reconstructing natural images from large-scale MEA recordings of macaque monkey retina with convex optimization and deep denoiser neural network image priors. Achieved state-of-the-art image fidelity (first-author, NeurIPS), first blind motion deblurring demonstration with eye movements from retinal recordings (first-author, Nature Communications). 
+          - Convex optimization and machine learning for identifying neuron cell types from recorded voltage signals (first-author, Journal of Neural Engineering).
+          - Prototyping for BCI. Built electrophysiology rig (mechanical, electrical, software development) for retinal recordings with 3D microelectrode arrays (second-author, Science Advances).
+          - Extensive software development for spike-sorting, large scale neural data infrastructure, signal processing, etc.
 
       - institution: Stanford University
         location: Stanford, California
+        url: https://www.ee.stanford.edu 
         area: Electrical Engineering
         studyType: MS
         start_date: 2016 
         end_date: 2018
-        courses: 
+        courses: solid state devices, nanofabrication, MEMS device design, machine learning, deep learning, convex optimization, systems neuroscience
         highlights:
-          - Description 1.
-          - Description 2.
-
+          - Research in MEMS under supervision of Prof. Roger T. Howe. Design, simulation, and nanofabrication for wafer-scale thermionic energy converter.
       - institution: University of California, Berkeley
         location: Berkeley, California
         url: https://www.eecs.berkeley.edu 
@@ -44,6 +46,9 @@ cv:
         start_date: 2012 
         end_date: 2016
         courses: analog integrated circuits, digital integrated circuits, semiconductor devices, digital signal processing, algorithms and CS theory, data structures, artificial intelligence, quantum mechanics
+        highlights: 
+          - Research in electronics for wearable sweat stimulation and sensing under supervision of Prof. Ali Javey. Author on 5+ peer-reviewed journal articles
+          - Teaching assistant for EE40 and EE16B introductory courses in electrical engineering
 
     Experience:
       - company: Defense Advanced Research Projects Agency (DARPA)
@@ -53,40 +58,56 @@ cv:
         end_date: 2026
         summary: Entrepreneurial two-year postdoctoral fellowship developing, funding, and managing exploratory high-risk research and technology development.
         highlights:
-          - Co-lead for 
-          - Co-manager for ...
+          - Co-lead for DARPA CRYSTAL (Crystal Substrate Bonding Technologies and Algorithms) program, including solicitation development, source selection, and program management 
+          - Co-manager for DARPA DUF (Discovering Unknome Function)
 
     Awards:
       - title: National Defense Science and Engineering Graduate (NDSEG) Fellowship
         date: 2017
         awarder: United States Department of Defense
         url: https://ndseg.org/
-        summary: The National Defense Science and Engineering Graduate (NDSEG) Fellowship program was established in 1989 by direction of congress as an approach to increasing the number of United States (U.S.) citizens receiving doctoral degrees in science and engineering (S&E) disciplines of military importance.
+        summary: The National Defense Science and Engineering Graduate (NDSEG) Fellowship program was established in 1989 by direction of Congress as an approach to increasing the number of United States (U.S.) citizens receiving doctoral degrees in science and engineering (S&E) disciplines of military importance.
 
-    Publications:
+    Selected Publications:
       - title: Maximum a posteriori natural scene reconstruction  from retinal ganglion cells with deep denoiser priors
         authors:
-          - Eric G. Wu, Nora Brackbill, Alexander Sher, Alan M. Litke, Eero Simoncelli, E.J. Chichilnisky
+          - Eric G. Wu, Nora Brackbill, Alexander Sher, Alan M. Litke, Eero P. Simoncelli, E.J. Chichilnisky
         publisher: NeurIPS
         releaseDate: 2022
         url: https://proceedings.neurips.cc/paper_files/paper/2022/file/ae447e9dbfdd1189966e894b85bea062-Paper-Conference.pdf
-        summary: Novel nonlinear inverse problem formulation for decoding images from retinal neural spikes trains, combining interpretable generalized linear neural encoding models with deep denoising neural network image priors. Demonstrated state-of-the-art decoded image fidelity (on ImageNet) using electrophysiologically-recorded spike trains from large populations of retinal ganglion cells (700+ cells), while using orders-of-magnitude fewer model parameters than competing methods.
+        summary: Nonlinear inverse problem for decoding static natural images from retinal neural spikes trains, combining interpretable generalized linear neural encoding models with deep denoising neural network image priors for MAP decoding. Demonstrated state-of-the-art decoded image fidelity (on ImageNet) using electrophysiologically-recorded spike trains from large populations of retinal ganglion cells (700+ cells), while using orders-of-magnitude fewer model parameters than competing methods.
 
       - title: Fixational eye movements enhance the precision of visual information transmitted by the primate retina
         authors:
-          - Eric G. Wu, 
+          - Eric G. Wu, Nora Brackbill, Colleen Rhoades, Alexandra Kling, Alex R. Gogliettino, Nishal P. Shah, Alexander Sher, Alan M. Litke, Eero P. Simoncelli, E.J. Chichilnisky
         publisher: Nature Communications
         releaseDate: 2024
         url: https://doi.org/10.1038/s41467-024-52304-7
-        summary: stuff...
+        summary: Simultaneous decoding of natural movies and eye movements from retinal neural spike trains using nonlinear inverse problem formulation (combining generalized linear neural encoding models, deep denoising neural network image priors, and expectation maximization for approximate MAP decoding). First experimental demonstration of blind motion deblurring and super-resolution imaging from electrophysiologically-recorded spike trains of retinal ganglion cells, showing that the primate visual system can exploit fine eye movments to improve fidelity of the visual signal. 
 
-      
+      -title: Decomposition of retinal ganglion cell electrical images for cell type and functional inference
+      authors: Eric G. Wu, Andra M. Rudzite, Martin O. Bohlen, Peter H. Li, Alexandra Kling, Sam Cooler, Colleen Rhoades, Nora Brackbill, Alex R. Gogliettino, Nishal P. Shah, Sasidhar S. Madugula, Alexander Sher, Alan M. Litke, Greg D. Field, E.J. Chichilnisky
+      publisher: Journal of Neural Engineering
+      url: https://doi.org/10.1088/1741-2552/ade344
+        summary: Non-convex optimization algorithm to estimate and isolate axonal, dendritic, and somatic signal components from extracellularly-recorded spike voltage templates of retinal ganglion cells. Featurizations produced by this algorithm enabled significant gains in accuracy over state-of-the-art for predicting receptive fields and retinal ganglion cell types from voltage signals alone, with applications for retinal prosthetic devices that restore vision.
+
+      -title: Autonomous sweat extraction and analysis applied to cystic fibrosis and glucose monitoring using a fully integrated wearable platform
+      authors: Sam Emaminejad, Wei Gao, Eric Wu, Zoe A Davies, Hnin Yin Yin Nyeinn, Samyuktha Challa, Sean P. Ryan, Hossain M. Fahad, Kevin Chen, Ziba Shahpar, Salmonn Talebi, Carlos Milla, Ali Javey, Ronald W. Davis
+      publisher: PNAS
+      url: http://crossmark.crossref.org/dialog/?doi=10.1073/pnas.1701740114&domain=pdf
+        summary: Integrated electronic system for wearable sweat stimulation and sweat metabolite and electrolyte chemical sensing, applied to cystic fibrosis diagnosis and real-time glucose monitoring. I designed the sensor interface and sweat stimulation electronics, wrote all of the embedded firmware, and participated in experimental evaluation for the system.
 
     Skills:
-      - name: Electrical Engineering
+      - name: electrical engineering
         #level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        #icon: fa-solid fa-hashtag
+        keywords: electronics prototyping, circuit analysis and design, cleanroom nanofabrication, digital signal processing
+     - name: computational neuroscience
+       keywords: retina, large scale electrophysiology, multi-electrode array recording, encoding models
+     - name: software
+       keywords: (in approximately decreasing order of familiarity) Python, PyTorch, Numpy/Scipy, C, C++, bash, CUDA
+     - name: machine learning
+       keywords: convex optimization, image quality evaluation, image processing
 
     Languages:
 
