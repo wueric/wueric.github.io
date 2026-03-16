@@ -86,14 +86,16 @@ cv:
         url: https://doi.org/10.1038/s41467-024-52304-7
         summary: Simultaneous decoding of natural movies and eye movements from retinal neural spike trains using nonlinear inverse problem formulation (combining generalized linear neural encoding models, deep denoising neural network image priors, and expectation maximization for approximate MAP decoding). First experimental demonstration of blind motion deblurring and super-resolution imaging from electrophysiologically-recorded spike trains of retinal ganglion cells, showing that the primate visual system can exploit fine eye movments to improve fidelity of the visual signal. 
 
-      -title: Decomposition of retinal ganglion cell electrical images for cell type and functional inference
-      authors: Eric G. Wu, Andra M. Rudzite, Martin O. Bohlen, Peter H. Li, Alexandra Kling, Sam Cooler, Colleen Rhoades, Nora Brackbill, Alex R. Gogliettino, Nishal P. Shah, Sasidhar S. Madugula, Alexander Sher, Alan M. Litke, Greg D. Field, E.J. Chichilnisky
+      - title: Decomposition of retinal ganglion cell electrical images for cell type and functional inference
+      authors: 
+        - Eric G. Wu, Andra M. Rudzite, Martin O. Bohlen, Peter H. Li, Alexandra Kling, Sam Cooler, Colleen Rhoades, Nora Brackbill, Alex R. Gogliettino, Nishal P. Shah, Sasidhar S. Madugula, Alexander Sher, Alan M. Litke, Greg D. Field, E.J. Chichilnisky
       publisher: Journal of Neural Engineering
       url: https://doi.org/10.1088/1741-2552/ade344
         summary: Non-convex optimization algorithm to estimate and isolate axonal, dendritic, and somatic signal components from extracellularly-recorded spike voltage templates of retinal ganglion cells. Featurizations produced by this algorithm enabled significant gains in accuracy over state-of-the-art for predicting receptive fields and retinal ganglion cell types from voltage signals alone, with applications for retinal prosthetic devices that restore vision.
 
-      -title: Autonomous sweat extraction and analysis applied to cystic fibrosis and glucose monitoring using a fully integrated wearable platform
-      authors: Sam Emaminejad, Wei Gao, Eric Wu, Zoe A Davies, Hnin Yin Yin Nyeinn, Samyuktha Challa, Sean P. Ryan, Hossain M. Fahad, Kevin Chen, Ziba Shahpar, Salmonn Talebi, Carlos Milla, Ali Javey, Ronald W. Davis
+      - title: Autonomous sweat extraction and analysis applied to cystic fibrosis and glucose monitoring using a fully integrated wearable platform
+      authors: 
+        - Sam Emaminejad, Wei Gao, Eric Wu, Zoe A Davies, Hnin Yin Yin Nyeinn, Samyuktha Challa, Sean P. Ryan, Hossain M. Fahad, Kevin Chen, Ziba Shahpar, Salmonn Talebi, Carlos Milla, Ali Javey, Ronald W. Davis
       publisher: PNAS
       url: http://crossmark.crossref.org/dialog/?doi=10.1073/pnas.1701740114&domain=pdf
         summary: Integrated electronic system for wearable sweat stimulation and sweat metabolite and electrolyte chemical sensing, applied to cystic fibrosis diagnosis and real-time glucose monitoring. I designed the sensor interface and sweat stimulation electronics, wrote all of the embedded firmware, and participated in experimental evaluation for the system.
