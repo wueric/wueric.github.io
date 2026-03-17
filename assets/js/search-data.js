@@ -49,8 +49,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-i-received-my-phd-my-thesis-on-decoding-spike-trains-from-the-macaque-monkey-retina-is-here",
-          title: 'I received my PhD! My thesis on decoding spike trains from the macaque...',
+            },},{id: "news-i-received-my-phd-my-thesis-using-machine-learning-to-decode-spike-trains-from-the-macaque-monkey-retina-is-here",
+          title: 'I received my PhD! My thesis using machine learning to decode spike trains...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
