@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received my PhD! My thesis on decoding spike trains from the macaque monkey retina is [here](https://purl.stanford.edu/yr893dw9922).
+I received my PhD! My thesis using machine learning to decode spike trains from the macaque monkey retina is [here](https://purl.stanford.edu/yr893dw9922).

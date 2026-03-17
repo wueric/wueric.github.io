@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Electrical engineer. Background in computational neuroscience, brain-computer interfaces, hardware, and a bit of machine learning. Stanford PhD, Berkeley EECS grad. 
 
 profile:
   align: right
