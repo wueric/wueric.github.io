@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Electrical engineer. Background in computational neuroscience, brain-computer interfaces, hardware, and a bit of machine learning. Stanford PhD, Berkeley EECS grad. 
+subtitle: Electrical engineer. Computational neuroscience, BCI, ML, hardware.
 
 profile:
   align: right
@@ -18,5 +18,4 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
+I'm an Innovation Fellow at [DARPA](https://www.darpa.mil/). Previously, I received my PhD in electrical engineering from [Stanford University](https:///www.stanford.edu), where I decoded images from retinal signals and prototyped algorithms and hardware for neural interfaces under the supervision of [E.J. Chichilnisky](https://med.stanford.edu/chichilnisky.html). Before that, I did my M.S. at Stanford working on nanofabrication of thermionic energy converters under the supervision of [Roger T. Howe](https://web.stanford.edu/group/howe/), and received my B.S. in [EECS from UC Berkeley](https://www.eecs.berkeley.edu), where I developed wearable sweat sensors under the supervision of [Ali Javey](https://nano.eecs.berkeley.edu/).
