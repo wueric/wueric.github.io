@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-25'
 papers:
   FVJEt_AAAAAJ:3fE2CSJIrl8C:
     citations: 0
@@ -34,7 +34,7 @@ papers:
     title: Automated identification of ganglion and amacrine cell types in a large primate retina dataset
     year: '2022'
   FVJEt_AAAAAJ:Tyk-4Ss8FVUC:
-    citations: 180
+    citations: 179
     title: "3D Printed \u201CEarable\u201D Smart Devices for Real-Time Detection of Core Body Temperature"
     year: '2017'
   FVJEt_AAAAAJ:UeHWp8X0CEIC:
@@ -54,7 +54,7 @@ papers:
     title: Methylxanthine Drug Monitoring with Wearable Sweat Sensors
     year: '2018'
   FVJEt_AAAAAJ:Zph67rFs4hoC:
-    citations: 25
+    citations: 26
     title: "Direct\u2010Print 3D Electrodes for Large\u2010Scale, High\u2010Density, and Customizable Neural Interfaces"
     year: '2024'
   FVJEt_AAAAAJ:_FxGoFyzp5QC:
