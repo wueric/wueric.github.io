@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-05-20'
 papers:
   FVJEt_AAAAAJ:3fE2CSJIrl8C:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Decomposition of retinal ganglion cell electrical images for cell type and functional inference
     year: '2023'
   FVJEt_AAAAAJ:9yKSN-GCB0IC:
-    citations: 281
+    citations: 282
     title: Application of 3D printing for smart objects with embedded electronic sensors and systems
     year: '2016'
   FVJEt_AAAAAJ:KlAtU1dfN6UC:
@@ -34,11 +34,11 @@ papers:
     title: Automated identification of ganglion and amacrine cell types in a large primate retina dataset
     year: '2022'
   FVJEt_AAAAAJ:Tyk-4Ss8FVUC:
-    citations: 186
+    citations: 187
     title: "3D Printed \u201CEarable\u201D Smart Devices for Real-Time Detection of Core Body Temperature"
     year: '2017'
   FVJEt_AAAAAJ:UeHWp8X0CEIC:
-    citations: 943
+    citations: 946
     title: Autonomous sweat extraction and analysis applied to cystic fibrosis and glucose monitoring using a fully integrated wearable platform
     year: '2017'
   FVJEt_AAAAAJ:UebtZRa9Y70C:
@@ -50,11 +50,11 @@ papers:
     title: Autonomous Sweat Extraction and Analysis Using a Fully-Integrated Wearable Platform
     year: '2018'
   FVJEt_AAAAAJ:YsMSGLbcyi4C:
-    citations: 332
+    citations: 333
     title: Methylxanthine Drug Monitoring with Wearable Sweat Sensors
     year: '2018'
   FVJEt_AAAAAJ:Zph67rFs4hoC:
-    citations: 28
+    citations: 29
     title: "Direct\u2010Print 3D Electrodes for Large\u2010Scale, High\u2010Density, and Customizable Neural Interfaces"
     year: '2024'
   FVJEt_AAAAAJ:_FxGoFyzp5QC:
