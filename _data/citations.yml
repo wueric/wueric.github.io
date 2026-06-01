@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-06-01'
 papers:
   FVJEt_AAAAAJ:3fE2CSJIrl8C:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Decomposition of retinal ganglion cell electrical images for cell type and functional inference
     year: '2023'
   FVJEt_AAAAAJ:9yKSN-GCB0IC:
-    citations: 282
+    citations: 281
     title: Application of 3D printing for smart objects with embedded electronic sensors and systems
     year: '2016'
   FVJEt_AAAAAJ:KlAtU1dfN6UC:
@@ -38,7 +38,7 @@ papers:
     title: "3D Printed \u201CEarable\u201D Smart Devices for Real-Time Detection of Core Body Temperature"
     year: '2017'
   FVJEt_AAAAAJ:UeHWp8X0CEIC:
-    citations: 946
+    citations: 949
     title: Autonomous sweat extraction and analysis applied to cystic fibrosis and glucose monitoring using a fully integrated wearable platform
     year: '2017'
   FVJEt_AAAAAJ:UebtZRa9Y70C:
@@ -50,7 +50,7 @@ papers:
     title: Autonomous Sweat Extraction and Analysis Using a Fully-Integrated Wearable Platform
     year: '2018'
   FVJEt_AAAAAJ:YsMSGLbcyi4C:
-    citations: 333
+    citations: 334
     title: Methylxanthine Drug Monitoring with Wearable Sweat Sensors
     year: '2018'
   FVJEt_AAAAAJ:Zph67rFs4hoC:
@@ -70,7 +70,7 @@ papers:
     title: Functional organization of midget and parasol ganglion cells in the human retina
     year: '2020'
   FVJEt_AAAAAJ:hqOjcs7Dif8C:
-    citations: 37
+    citations: 36
     title: Focal electrical stimulation of human retinal ganglion cells for vision restoration
     year: '2022'
   FVJEt_AAAAAJ:kNdYIx-mwKoC:
@@ -82,7 +82,7 @@ papers:
     title: Wearable sweat biosensors
     year: '2016'
   FVJEt_AAAAAJ:roLk4NBRz8UC:
-    citations: 14
+    citations: 13
     title: Inferring light responses of primate retinal ganglion cells using intrinsic electrical signatures
     year: '2023'
   FVJEt_AAAAAJ:u-x6o8ySG0sC:
