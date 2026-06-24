@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-24'
 papers:
   FVJEt_AAAAAJ:3fE2CSJIrl8C:
     citations: 0
@@ -38,7 +38,7 @@ papers:
     title: "3D Printed \u201CEarable\u201D Smart Devices for Real-Time Detection of Core Body Temperature"
     year: '2017'
   FVJEt_AAAAAJ:UeHWp8X0CEIC:
-    citations: 952
+    citations: 957
     title: Autonomous sweat extraction and analysis applied to cystic fibrosis and glucose monitoring using a fully integrated wearable platform
     year: '2017'
   FVJEt_AAAAAJ:UebtZRa9Y70C:
@@ -50,11 +50,11 @@ papers:
     title: Autonomous Sweat Extraction and Analysis Using a Fully-Integrated Wearable Platform
     year: '2018'
   FVJEt_AAAAAJ:YsMSGLbcyi4C:
-    citations: 335
+    citations: 336
     title: Methylxanthine Drug Monitoring with Wearable Sweat Sensors
     year: '2018'
   FVJEt_AAAAAJ:Zph67rFs4hoC:
-    citations: 30
+    citations: 33
     title: "Direct\u2010Print 3D Electrodes for Large\u2010Scale, High\u2010Density, and Customizable Neural Interfaces"
     year: '2024'
   FVJEt_AAAAAJ:_FxGoFyzp5QC:
@@ -62,7 +62,7 @@ papers:
     title: Inferring retinal ganglion cell light response properties from intrinsic electrical feature
     year: '2021'
   FVJEt_AAAAAJ:d1gkVwhDpl0C:
-    citations: 429
+    citations: 430
     title: Wearable Microsensor Array for Multiplexed Heavy Metal Monitoring of Body Fluids
     year: '2016'
   FVJEt_AAAAAJ:eQOLeE2rZwMC:
@@ -90,7 +90,7 @@ papers:
     title: 'SplicePlot: a utility for visualizing splicing quantitative trait loci'
     year: '2014'
   FVJEt_AAAAAJ:u5HHmVD_uO8C:
-    citations: 83
+    citations: 84
     title: Transcriptome sequencing of a large human family identifies the impact of rare noncoding variants
     year: '2014'
   FVJEt_AAAAAJ:ufrVoPGSRksC:
