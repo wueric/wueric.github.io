@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-06-29'
 papers:
   FVJEt_AAAAAJ:3fE2CSJIrl8C:
     citations: 0
     title: Diverse functional properties of polyaxonal amacrine cells in the primate retina
     year: '2024'
   FVJEt_AAAAAJ:5nxA0vEk-isC:
-    citations: 21
+    citations: 20
     title: Fixational eye movements enhance the precision of visual information transmitted by the primate retina
     year: '2024'
   FVJEt_AAAAAJ:8k81kl-MbHgC:
@@ -38,7 +38,7 @@ papers:
     title: "3D Printed \u201CEarable\u201D Smart Devices for Real-Time Detection of Core Body Temperature"
     year: '2017'
   FVJEt_AAAAAJ:UeHWp8X0CEIC:
-    citations: 957
+    citations: 960
     title: Autonomous sweat extraction and analysis applied to cystic fibrosis and glucose monitoring using a fully integrated wearable platform
     year: '2017'
   FVJEt_AAAAAJ:UebtZRa9Y70C:
@@ -50,11 +50,11 @@ papers:
     title: Autonomous Sweat Extraction and Analysis Using a Fully-Integrated Wearable Platform
     year: '2018'
   FVJEt_AAAAAJ:YsMSGLbcyi4C:
-    citations: 336
+    citations: 337
     title: Methylxanthine Drug Monitoring with Wearable Sweat Sensors
     year: '2018'
   FVJEt_AAAAAJ:Zph67rFs4hoC:
-    citations: 33
+    citations: 34
     title: "Direct\u2010Print 3D Electrodes for Large\u2010Scale, High\u2010Density, and Customizable Neural Interfaces"
     year: '2024'
   FVJEt_AAAAAJ:_FxGoFyzp5QC:
