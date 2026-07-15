@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-15'
 papers:
   FVJEt_AAAAAJ:3fE2CSJIrl8C:
     citations: 0
     title: Diverse functional properties of polyaxonal amacrine cells in the primate retina
     year: '2024'
   FVJEt_AAAAAJ:5nxA0vEk-isC:
-    citations: 20
+    citations: 21
     title: Fixational eye movements enhance the precision of visual information transmitted by the primate retina
     year: '2024'
   FVJEt_AAAAAJ:8k81kl-MbHgC:
-    citations: 7
+    citations: 8
     title: Decomposition of retinal ganglion cell electrical images for cell type and functional inference
     year: '2023'
   FVJEt_AAAAAJ:9yKSN-GCB0IC:
@@ -34,11 +34,11 @@ papers:
     title: Automated identification of ganglion and amacrine cell types in a large primate retina dataset
     year: '2022'
   FVJEt_AAAAAJ:Tyk-4Ss8FVUC:
-    citations: 187
+    citations: 186
     title: "3D Printed \u201CEarable\u201D Smart Devices for Real-Time Detection of Core Body Temperature"
     year: '2017'
   FVJEt_AAAAAJ:UeHWp8X0CEIC:
-    citations: 960
+    citations: 963
     title: Autonomous sweat extraction and analysis applied to cystic fibrosis and glucose monitoring using a fully integrated wearable platform
     year: '2017'
   FVJEt_AAAAAJ:UebtZRa9Y70C:
@@ -50,11 +50,11 @@ papers:
     title: Autonomous Sweat Extraction and Analysis Using a Fully-Integrated Wearable Platform
     year: '2018'
   FVJEt_AAAAAJ:YsMSGLbcyi4C:
-    citations: 337
+    citations: 339
     title: Methylxanthine Drug Monitoring with Wearable Sweat Sensors
     year: '2018'
   FVJEt_AAAAAJ:Zph67rFs4hoC:
-    citations: 34
+    citations: 36
     title: "Direct\u2010Print 3D Electrodes for Large\u2010Scale, High\u2010Density, and Customizable Neural Interfaces"
     year: '2024'
   FVJEt_AAAAAJ:_FxGoFyzp5QC:
@@ -62,7 +62,7 @@ papers:
     title: Inferring retinal ganglion cell light response properties from intrinsic electrical feature
     year: '2021'
   FVJEt_AAAAAJ:d1gkVwhDpl0C:
-    citations: 430
+    citations: 431
     title: Wearable Microsensor Array for Multiplexed Heavy Metal Monitoring of Body Fluids
     year: '2016'
   FVJEt_AAAAAJ:eQOLeE2rZwMC:
