@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-08-03'
 papers:
   FVJEt_AAAAAJ:3fE2CSJIrl8C:
     citations: 0
     title: Diverse functional properties of polyaxonal amacrine cells in the primate retina
     year: '2024'
   FVJEt_AAAAAJ:5nxA0vEk-isC:
-    citations: 21
+    citations: 23
     title: Fixational eye movements enhance the precision of visual information transmitted by the primate retina
     year: '2024'
   FVJEt_AAAAAJ:8k81kl-MbHgC:
@@ -14,7 +14,7 @@ papers:
     title: Decomposition of retinal ganglion cell electrical images for cell type and functional inference
     year: '2023'
   FVJEt_AAAAAJ:9yKSN-GCB0IC:
-    citations: 282
+    citations: 279
     title: Application of 3D printing for smart objects with embedded electronic sensors and systems
     year: '2016'
   FVJEt_AAAAAJ:KlAtU1dfN6UC:
@@ -30,31 +30,31 @@ papers:
     title: Modeling responses of macaque and human retinal ganglion cells to natural images using a convolutional neural network
     year: '2024'
   FVJEt_AAAAAJ:Se3iqnhoufwC:
-    citations: 1
+    citations: 2
     title: Automated identification of ganglion and amacrine cell types in a large primate retina dataset
     year: '2022'
   FVJEt_AAAAAJ:Tyk-4Ss8FVUC:
-    citations: 186
+    citations: 184
     title: "3D Printed \u201CEarable\u201D Smart Devices for Real-Time Detection of Core Body Temperature"
     year: '2017'
   FVJEt_AAAAAJ:UeHWp8X0CEIC:
-    citations: 963
+    citations: 965
     title: Autonomous sweat extraction and analysis applied to cystic fibrosis and glucose monitoring using a fully integrated wearable platform
     year: '2017'
   FVJEt_AAAAAJ:UebtZRa9Y70C:
-    citations: 1
+    citations: 2
     title: Unusual properties of novel ganglion cell and amacrine cell types in macaque and human retina
     year: '2022'
   FVJEt_AAAAAJ:W7OEmFMy1HYC:
-    citations: 7
+    citations: 8
     title: Autonomous Sweat Extraction and Analysis Using a Fully-Integrated Wearable Platform
     year: '2018'
   FVJEt_AAAAAJ:YsMSGLbcyi4C:
-    citations: 339
+    citations: 342
     title: Methylxanthine Drug Monitoring with Wearable Sweat Sensors
     year: '2018'
   FVJEt_AAAAAJ:Zph67rFs4hoC:
-    citations: 36
+    citations: 38
     title: "Direct\u2010Print 3D Electrodes for Large\u2010Scale, High\u2010Density, and Customizable Neural Interfaces"
     year: '2024'
   FVJEt_AAAAAJ:_FxGoFyzp5QC:
@@ -62,15 +62,15 @@ papers:
     title: Inferring retinal ganglion cell light response properties from intrinsic electrical feature
     year: '2021'
   FVJEt_AAAAAJ:d1gkVwhDpl0C:
-    citations: 431
+    citations: 434
     title: Wearable Microsensor Array for Multiplexed Heavy Metal Monitoring of Body Fluids
     year: '2016'
   FVJEt_AAAAAJ:eQOLeE2rZwMC:
-    citations: 27
+    citations: 26
     title: Functional organization of midget and parasol ganglion cells in the human retina
     year: '2020'
   FVJEt_AAAAAJ:hqOjcs7Dif8C:
-    citations: 37
+    citations: 45
     title: Focal electrical stimulation of human retinal ganglion cells for vision restoration
     year: '2022'
   FVJEt_AAAAAJ:kNdYIx-mwKoC:
@@ -86,7 +86,7 @@ papers:
     title: Inferring light responses of primate retinal ganglion cells using intrinsic electrical signatures
     year: '2023'
   FVJEt_AAAAAJ:u-x6o8ySG0sC:
-    citations: 19
+    citations: 20
     title: 'SplicePlot: a utility for visualizing splicing quantitative trait loci'
     year: '2014'
   FVJEt_AAAAAJ:u5HHmVD_uO8C:
