@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-14'
 papers:
   FVJEt_AAAAAJ:3fE2CSJIrl8C:
     citations: 0
     title: Diverse functional properties of polyaxonal amacrine cells in the primate retina
     year: '2024'
   FVJEt_AAAAAJ:5nxA0vEk-isC:
-    citations: 23
+    citations: 24
     title: Fixational eye movements enhance the precision of visual information transmitted by the primate retina
     year: '2024'
   FVJEt_AAAAAJ:8k81kl-MbHgC:
@@ -38,7 +38,7 @@ papers:
     title: "3D Printed \u201CEarable\u201D Smart Devices for Real-Time Detection of Core Body Temperature"
     year: '2017'
   FVJEt_AAAAAJ:UeHWp8X0CEIC:
-    citations: 971
+    citations: 972
     title: Autonomous sweat extraction and analysis applied to cystic fibrosis and glucose monitoring using a fully integrated wearable platform
     year: '2017'
   FVJEt_AAAAAJ:UebtZRa9Y70C:
@@ -86,7 +86,7 @@ papers:
     title: Inferring light responses of primate retinal ganglion cells using intrinsic electrical signatures
     year: '2023'
   FVJEt_AAAAAJ:u-x6o8ySG0sC:
-    citations: 20
+    citations: 21
     title: 'SplicePlot: a utility for visualizing splicing quantitative trait loci'
     year: '2014'
   FVJEt_AAAAAJ:u5HHmVD_uO8C:
