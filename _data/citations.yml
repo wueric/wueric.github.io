@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-09-04'
 papers:
   FVJEt_AAAAAJ:3fE2CSJIrl8C:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Decomposition of retinal ganglion cell electrical images for cell type and functional inference
     year: '2023'
   FVJEt_AAAAAJ:9yKSN-GCB0IC:
-    citations: 281
+    citations: 284
     title: Application of 3D printing for smart objects with embedded electronic sensors and systems
     year: '2016'
   FVJEt_AAAAAJ:KlAtU1dfN6UC:
@@ -34,11 +34,11 @@ papers:
     title: Automated identification of ganglion and amacrine cell types in a large primate retina dataset
     year: '2022'
   FVJEt_AAAAAJ:Tyk-4Ss8FVUC:
-    citations: 185
+    citations: 186
     title: "3D Printed \u201CEarable\u201D Smart Devices for Real-Time Detection of Core Body Temperature"
     year: '2017'
   FVJEt_AAAAAJ:UeHWp8X0CEIC:
-    citations: 974
+    citations: 977
     title: Autonomous sweat extraction and analysis applied to cystic fibrosis and glucose monitoring using a fully integrated wearable platform
     year: '2017'
   FVJEt_AAAAAJ:UebtZRa9Y70C:
@@ -54,7 +54,7 @@ papers:
     title: Methylxanthine Drug Monitoring with Wearable Sweat Sensors
     year: '2018'
   FVJEt_AAAAAJ:Zph67rFs4hoC:
-    citations: 38
+    citations: 39
     title: "Direct\u2010Print 3D Electrodes for Large\u2010Scale, High\u2010Density, and Customizable Neural Interfaces"
     year: '2024'
   FVJEt_AAAAAJ:_FxGoFyzp5QC:
@@ -62,7 +62,7 @@ papers:
     title: Inferring retinal ganglion cell light response properties from intrinsic electrical feature
     year: '2021'
   FVJEt_AAAAAJ:d1gkVwhDpl0C:
-    citations: 437
+    citations: 438
     title: Wearable Microsensor Array for Multiplexed Heavy Metal Monitoring of Body Fluids
     year: '2016'
   FVJEt_AAAAAJ:eQOLeE2rZwMC:
